@@ -1,5 +1,6 @@
 import os
 os.environ['MPLCONFIGDIR'] = os.getcwd() + "/configs/"
+
 import matplotlib
 import pandas as pd
 import seaborn as sns
